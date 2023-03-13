@@ -4,9 +4,6 @@ login(userName,password){
     asdf;jsadf
     sadfhklsadf
     sdf
-
-    jgfjhgj
-    hgfh
 	
 }
 
